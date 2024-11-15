@@ -1,6 +1,4 @@
 
-Here's an English version of the README for your Arduino home automation project:
-
 Home Automation Project with Arduino UNO and ESP8266
 Project Description
 This project is a home automation system built with Arduino UNO and ESP8266. It uses environmental sensors (temperature, humidity, air quality, light, and motion) to monitor the conditions of a room or area and automatically control various relays based on preset conditions or schedules. A web interface allows real-time viewing of sensor data, relay scheduling, email alerts, and emergency shutdowns.
